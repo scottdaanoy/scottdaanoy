@@ -45,7 +45,7 @@ Transforming data into insights that empower smarter business strategies.
 - 🧠 [Agentic AI Invoice Extractor](#)  
   Developed an **agentic AI workflow** using **Azure**, **LLMs**, and **Python**. The system monitors incoming emails, extracts key invoice details using an AI model, and automatically structures the data into Excel via JSON output.
 
-  - 🤖 [Customer Order Prediction Model](#)  
+- 🤖 [Customer Order Prediction Model](#)  
   Designed and deployed **machine learning models** to forecast customer orders, improving business planning and operational efficiency.
 
 - 📊 [Global Influenza Dashboard – AstraZeneca](#)  
@@ -56,3 +56,12 @@ Transforming data into insights that empower smarter business strategies.
 
 - 🎮 [Marbles Battle Royale (Multiplayer Game)](#)  
   Created a **multiplayer game** from scratch using **Unity** and **C#**, implementing custom physics, game logic, and online matchmaking systems.
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/euan-scott-daanoy/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:daanoyscott@gmail.com)
+
+---
