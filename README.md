@@ -59,13 +59,6 @@ Transforming data into insights that empower smarter business strategies.
 
 ---
 
-### 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/euan-scott-daanoy/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:daanoyscott@gmail.com)
-
----
-
 ### ⚡ Fun / Personality
 - 🤖 Built the **first agentic AI system** at Certas Energy, automating complex workflows  
 - 🎾🏀🏐🏂 Outside of work, I enjoy **tennis, basketball, volleyball, and snowboarding**  
@@ -73,5 +66,8 @@ Transforming data into insights that empower smarter business strategies.
   
 ---
 
-### 💬 Let’s Connect
+### 🌐 Connect With Me
+
 Feel free to **reach out or collaborate** on projects related to AI, BI, or data analytics! 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/euan-scott-daanoy/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:daanoyscott@gmail.com)
