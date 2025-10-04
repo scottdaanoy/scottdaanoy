@@ -68,6 +68,6 @@ Transforming data into insights that empower smarter business strategies.
 
 ### 🌐 Connect With Me
 
-# Feel free to **reach out or collaborate** on projects related to AI, BI, or data analytics! 🚀
+- Feel free to **reach out or collaborate** on projects related to AI, BI, or data analytics! 🚀
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/euan-scott-daanoy/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:daanoyscott@gmail.com)
