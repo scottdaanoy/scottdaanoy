@@ -70,3 +70,8 @@ Transforming data into insights that empower smarter business strategies.
 - 🤖 Built the **first agentic AI system** at Certas Energy, automating complex workflows  
 - 🎾🏀🏐🏂 Outside of work, I enjoy **tennis, basketball, volleyball, and snowboarding**  
 - 🧩 Always exploring **AI, ML, and new ways to automate workflows**
+  
+---
+
+### 💬 Let’s Connect
+Feel free to **reach out or collaborate** on projects related to AI, BI, or data analytics! 🚀
