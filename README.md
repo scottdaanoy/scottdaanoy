@@ -65,3 +65,8 @@ Transforming data into insights that empower smarter business strategies.
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:daanoyscott@gmail.com)
 
 ---
+
+### ⚡ Fun / Personality
+- 🤖 Built the **first agentic AI system** at Certas Energy, automating complex workflows  
+- 🎾🏀🏐🏂 Outside of work, I enjoy **tennis, basketball, volleyball, and snowboarding**  
+- 🧩 Always exploring **AI, ML, and new ways to automate workflows**
