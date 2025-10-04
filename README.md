@@ -38,3 +38,21 @@ Transforming data into insights that empower smarter business strategies.
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
+---
+
+### 🧩 Featured Projects
+
+- 🧠 [Agentic AI Invoice Extractor](#)  
+  Developed an **agentic AI workflow** using **Azure**, **LLMs**, and **Python**. The system monitors incoming emails, extracts key invoice details using an AI model, and automatically structures the data into Excel via JSON output.
+
+  - 🤖 [Customer Order Prediction Model](#)  
+  Designed and deployed **machine learning models** to forecast customer orders, improving business planning and operational efficiency.
+
+- 📊 [Global Influenza Dashboard – AstraZeneca](#)  
+  Built a **data pipeline and visualization dashboard** to monitor key influenza metrics worldwide. Combined **web scraping**, **data engineering**, and **Power BI** to deliver real-time, global health insights.
+
+- 🚁 [Autonomous Delivery Drone Training](#)  
+  Trained an AI-driven delivery drone in **Unity**, exploring reinforcement learning algorithms and model evaluation techniques. Integrated a trained `.pkl` model into a simulation environment for autonomous navigation.
+
+- 🎮 [Marbles Battle Royale (Multiplayer Game)](#)  
+  Created a **multiplayer game** from scratch using **Unity** and **C#**, implementing custom physics, game logic, and online matchmaking systems.
