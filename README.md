@@ -54,7 +54,7 @@ Transforming data into insights that empower smarter business strategies.
 - 🚁 [Autonomous Delivery Drone Training](#)  
   Trained an AI-driven delivery drone in **Unity**, exploring reinforcement learning algorithms and model evaluation techniques. Integrated a trained `.pkl` model into a simulation environment for autonomous navigation.
 
-- 🎮 [Marbles Battle Royale (Multiplayer Game)](#)  
+- 🎮 [Marbles Battle Royale (Multiplayer Game)](https://github.com/scottdaanoy/marbles-battle-royale)  
   Created a **multiplayer game** from scratch using **Unity** and **C#**, implementing custom physics, game logic, and online matchmaking systems.
 
 ---
